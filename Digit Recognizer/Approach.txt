@@ -1,0 +1,3 @@
+I created this jupyter notebook of the digit recognizer dataset.
+I downloded this datset from Kaggle.
+I used basic logistic regression model for this dataset.
